@@ -7,6 +7,7 @@ Sistem Informasi A'23
 Program Menghitung Volume Bangun Ruang
 
 # Flowchart
+![IPIT drawio](https://github.com/Fitriy19/Postest_1_Fitri_Yanti/assets/146033191/7cee9bec-bab3-489d-bbd5-2629883e5e21)
 
 
 
